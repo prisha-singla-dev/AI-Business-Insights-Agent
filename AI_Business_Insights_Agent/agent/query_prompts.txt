@@ -1,0 +1,15 @@
+Prompts - 
+1. Which product category has the highest profit margin?
+2. What were the top 5 selling products in February month 2017 and present it in tabular format?
+3. Show the sales revenue for the first quarter of 2018 and provide insights in which product I need to focus more.
+4. Show a breakdown of customer demographics by state in bulleted format.
+5. What was the total sales for each product in Q1 of 2018?
+6. Provide a summary of the most profitable sales channels.
+7. Show me the total sales for the year 2017.Mention top 5 products by sales in 2017
+8. How many orders were delivered in December 2017?
+9. How many new customers were acquired in 2017?
+10. Show me the sales trends over the course of 2018, by month.
+11. What was the average discount offered in 2018? Compare it with that offered in 2017.
+12. Which city had the highest sales in 2017?Provide a city-wise analysis
+13. How many orders had a delayed delivery in 2018?
+14. What was the best-selling product category in 2017?Provide the output in tabular format

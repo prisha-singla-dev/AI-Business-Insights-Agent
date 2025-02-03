@@ -1,0 +1,18 @@
+# Template Configuration File (Replace placeholders before using)
+
+api_keys:
+  openai_api_key: "${OPENAI_API_KEY}"
+  postgres_uri: "${DB_URI}"
+
+
+agent_settings:
+  model: "${YOUR_MODEL_DEPLOYMENT}"
+  temperature: 0.7
+  max_tokens: 500
+
+database:
+  host: "<DB_HOST>"
+  port: "<DB_PORT>"
+  user: "<DB_USER>"
+  password: "<DB_PASSWORD>"
+  name: "<DB_NAME>"
